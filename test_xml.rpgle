@@ -111,3 +111,7 @@
          /end-free
      P                 E
 
+         /free
+          //probando push
+         
+         /end-free
